@@ -57,7 +57,7 @@ const isPasswordVisible = ref(false);
 
                 
                 <!-- login button -->
-                <VBtn block type="submit" to="/"> Login </VBtn>
+                <VBtn block type="submit" to="/"> Login yuk</VBtn>
               </VCol>
 
               <!-- create account -->
@@ -69,7 +69,7 @@ const isPasswordVisible = ref(false);
               </VCol>
 
               
-              
+
 
               <!-- auth providers -->
               <VCol cols="12" class="text-center">
